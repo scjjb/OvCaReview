@@ -1,8 +1,6 @@
-# Diagnostic Artificial Intelligence in Histopathology of Ovarian Cancer: A Systematic Review
+# Artificial Intelligence in Ovarian Cancer Histopathology: A Systematic Review
 
-[Protocol](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022334730)
-
-Pre-print due to be published in March 2023.
+[Protocol](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022334730) | [Preprint](https://arxiv.org/abs/2303.18005)
 
 DataExtractionTemplate.xlsx is the form used for data extraction in the review. 
 

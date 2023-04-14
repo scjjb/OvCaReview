@@ -1,6 +1,9 @@
-# Artificial Intelligence in Ovarian Cancer Histopathology: A Systematic Review
+# Artificial Intelligence in Ovarian Cancer Histopathology: A Systematic Review 
+<img src="CISTIB logo.png" align="right" width="240"/>
 
-[Protocol](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022334730) | [Preprint](https://arxiv.org/abs/2303.18005)
+[Prospero Protocol](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022334730) | [Arxiv Preprint](https://arxiv.org/abs/2303.18005)
+
+<img src="PRISMA_flow_diagram.png" width="500px" align="centre" />
 
 DataExtractionTemplate.xlsx is the form used for data extraction in the review. 
 
